@@ -39,6 +39,12 @@ c2f();
 
 }else if(conversion == 'c'){
 
+if(conversion == 'c'){
+
+c2f();
+
+}else if(conversion == 'f'){
+
 f2c();
 
 }else{
