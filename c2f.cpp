@@ -42,7 +42,7 @@ c2f();
 f2c();
 
 }else{
-  std::cout << "Unsuported conversion.\nPlease Try again.\n";
+  std::cout << "Unsupported conversion.\nPlease Try again.\n";
 }
 
     /* Standard housekeeping */
