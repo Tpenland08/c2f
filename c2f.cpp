@@ -33,11 +33,11 @@ int main()
 std::cout << "to:\n";
 std::cin >> conversion;
 
-if(conversion == 'c'){
+if(conversion == 'f'){
 
 c2f();
 
-}else if(conversion == 'f'){
+}else if(conversion == 'c'){
 
 f2c();
 
