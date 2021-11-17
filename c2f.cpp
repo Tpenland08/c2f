@@ -37,17 +37,15 @@ if(conversion == 'f'){
 
 c2f();
 
-}else if(conversion == 'c'){
+}
 
 if(conversion == 'c'){
 
-c2f();
-
-}else if(conversion == 'f'){
-
 f2c();
 
-}else{
+}
+
+if(conversion != 'c' && conversion != 'f'){
   std::cout << "Unsupported conversion.\nPlease Try again.\n";
 }
 
